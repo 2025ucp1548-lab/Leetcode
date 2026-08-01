@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
@@ -53,6 +54,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
