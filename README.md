@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -84,5 +85,18 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
