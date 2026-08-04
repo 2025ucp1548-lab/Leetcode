@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
@@ -54,6 +57,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
