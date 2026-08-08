@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
