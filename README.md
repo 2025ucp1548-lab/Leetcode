@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1025-divisor-game) |
 ## Linked List
@@ -96,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -129,4 +132,12 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
