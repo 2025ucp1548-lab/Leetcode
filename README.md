@@ -76,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
 ## String
@@ -99,6 +100,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
