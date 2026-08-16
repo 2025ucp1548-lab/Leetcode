@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
