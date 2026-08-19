@@ -130,11 +130,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
@@ -145,12 +147,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
