@@ -46,6 +46,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -72,6 +73,7 @@
 | [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
 | ------- |
