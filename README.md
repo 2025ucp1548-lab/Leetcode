@@ -22,6 +22,7 @@
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
