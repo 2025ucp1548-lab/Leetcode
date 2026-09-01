@@ -53,6 +53,7 @@
 | [1025-divisor-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1486-xor-operation-in-an-array) |
