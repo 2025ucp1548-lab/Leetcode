@@ -26,6 +26,7 @@
 | [1200-minimum-absolute-difference](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3903-smallest-stable-index-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,4 +263,5 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
