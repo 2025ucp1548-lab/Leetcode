@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1037-valid-boomerang) |
@@ -82,6 +83,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
@@ -167,10 +169,12 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -225,6 +229,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -239,6 +244,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Binary Search Tree
 |  |
@@ -283,4 +289,12 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
