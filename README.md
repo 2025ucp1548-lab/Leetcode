@@ -47,6 +47,7 @@
 | [0273-integer-to-english-words](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0441-arranging-coins) |
@@ -165,6 +166,7 @@
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
 ## Merge Sort
 |  |
 | ------- |
@@ -273,4 +275,12 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
