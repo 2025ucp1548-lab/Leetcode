@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -170,6 +171,7 @@
 | [0053-maximum-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
