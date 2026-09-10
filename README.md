@@ -194,12 +194,14 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
