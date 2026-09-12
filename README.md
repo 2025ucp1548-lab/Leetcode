@@ -33,6 +33,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3903-smallest-stable-index-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -96,6 +97,7 @@
 | [1200-minimum-absolute-difference](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
 |  |
@@ -255,6 +257,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
