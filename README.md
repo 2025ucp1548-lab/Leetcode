@@ -32,6 +32,7 @@
 | [1200-minimum-absolute-difference](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3903-smallest-stable-index-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
 |  |
@@ -272,12 +274,14 @@
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search Tree
 |  |
 | ------- |
