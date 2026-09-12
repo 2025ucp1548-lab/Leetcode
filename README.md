@@ -185,6 +185,7 @@
 | [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
@@ -206,6 +207,7 @@
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -213,6 +215,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -230,6 +233,7 @@
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
@@ -266,6 +270,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
@@ -278,6 +283,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
