@@ -34,6 +34,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3903-smallest-stable-index-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Brainteaser
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 | [0441-arranging-coins](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -270,6 +274,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Greedy
 |  |
 | ------- |
