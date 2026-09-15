@@ -25,6 +25,7 @@
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -48,6 +49,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Math
