@@ -139,6 +139,7 @@
 | [0008-string-to-integer-atoi](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0415-add-strings) |
