@@ -136,6 +136,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0038-count-and-say) |
@@ -155,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -176,6 +178,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -374,4 +377,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
