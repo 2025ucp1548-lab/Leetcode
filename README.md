@@ -145,6 +145,7 @@
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -392,4 +394,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
