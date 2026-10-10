@@ -28,6 +28,7 @@
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0912-sort-an-array) |
@@ -307,6 +308,7 @@
 | [0011-container-with-most-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
