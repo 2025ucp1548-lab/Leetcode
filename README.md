@@ -406,4 +406,16 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
