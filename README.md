@@ -88,6 +88,7 @@
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Sorting
@@ -318,6 +319,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
