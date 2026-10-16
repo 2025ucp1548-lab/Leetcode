@@ -23,6 +23,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -174,6 +175,7 @@
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -365,6 +367,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -426,4 +429,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
