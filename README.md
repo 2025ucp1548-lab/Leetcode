@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0089-gray-code) |
@@ -156,6 +157,7 @@
 | [0008-string-to-integer-atoi](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -171,6 +173,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0415-add-strings) |
 ## Dynamic Programming
