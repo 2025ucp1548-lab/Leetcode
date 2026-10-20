@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -182,6 +183,7 @@
 | [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -356,6 +358,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Number Theory
