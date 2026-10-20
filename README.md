@@ -162,6 +162,7 @@
 | [0058-length-of-last-word](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0415-add-strings) |
@@ -188,6 +189,7 @@
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1025-divisor-game) |
@@ -216,6 +218,7 @@
 | [0086-partition-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
