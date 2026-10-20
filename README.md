@@ -31,6 +31,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
@@ -191,6 +192,7 @@
 | [0198-house-robber](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1143-longest-common-subsequence) |
