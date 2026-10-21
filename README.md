@@ -70,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -188,6 +189,7 @@
 | [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -472,4 +474,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
