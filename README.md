@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0274-h-index) |
+| [0313-super-ugly-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -77,6 +78,7 @@
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0273-integer-to-english-words](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0412-fizz-buzz) |
@@ -197,6 +199,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0198-house-robber) |
+| [0313-super-ugly-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
