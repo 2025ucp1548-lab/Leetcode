@@ -100,6 +100,7 @@
 | [1323-maximum-69-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -180,6 +181,7 @@
 | [1143-longest-common-subsequence](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2409-count-days-spent-together](https://github.com/2025ucp1548-lab/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Simulation
 |  |
 | ------- |
