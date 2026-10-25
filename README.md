@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -58,6 +59,7 @@
 | [0001-two-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0409-longest-palindrome](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0409-longest-palindrome) |
@@ -380,6 +382,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Number Theory
