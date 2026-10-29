@@ -276,6 +276,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -304,6 +306,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -375,6 +378,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
