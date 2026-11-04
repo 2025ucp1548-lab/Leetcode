@@ -14,6 +14,7 @@
 | [0064-minimum-path-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0018-4sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0179-largest-number) |
@@ -235,6 +237,7 @@
 | [0018-4sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0148-sort-list) |
@@ -498,4 +501,9 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
