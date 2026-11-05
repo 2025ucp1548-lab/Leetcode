@@ -172,6 +172,7 @@
 | [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0058-length-of-last-word) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0062-unique-paths) |
@@ -413,6 +415,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0494-target-sum) |
@@ -464,6 +467,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Minimax
 |  |
