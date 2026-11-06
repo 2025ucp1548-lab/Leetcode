@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -152,6 +153,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0338-counting-bits) |
@@ -420,6 +422,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/2025ucp1548-lab/Leetcode/tree/master/0131-palindrome-partitioning) |
